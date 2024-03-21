@@ -11,7 +11,6 @@ Age of the customer.
 Annual Income (k$)
 Spending Score (1-100)
 
-#Findings
 Analysis
 
     Target group would be cluster 2 which has a high Spending score and high income.
